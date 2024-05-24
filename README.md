@@ -4,3 +4,4 @@ TASK-1
 TASK-2
 ![Screenshot 2024-05-24 185649](https://github.com/yasir3844/CODSOFT/assets/68433008/58c33094-fd02-4637-9822-2feb3b160441)
 TASK-3
+![Screenshot 2024-05-24 185731](https://github.com/yasir3844/CODSOFT/assets/68433008/7605e001-9689-41e7-aa04-c4b4970408a2)
